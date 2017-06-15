@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692933478410",
+    "firebase_url": "https://vtracker-411f6.firebaseio.com",
+    "project_id": "vtracker-411f6",
+    "storage_bucket": "vtracker-411f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692933478410:android:e1ea82fb44c1820a",
+        "android_client_info": {
+          "package_name": "vyom.com.vtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692933478410-d2n05thslkqgl4rbi5lhafdd1itr5274.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vyom.com.vtracker",
+            "certificate_hash": "7a76a31be433b80063813291c0160a0ea4534e24"
+          }
+        },
+        {
+          "client_id": "692933478410-h8m88pl09mq7bfslk55sq69sgggknbdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJTsQAGzRaNKt3ElxyxxUUf--Idorzy8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692933478410-h8m88pl09mq7bfslk55sq69sgggknbdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
